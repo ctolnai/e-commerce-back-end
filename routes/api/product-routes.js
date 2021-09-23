@@ -117,7 +117,7 @@ router.delete('/:id', (req, res) => {
     }).then(data => {
 
       if (!data) {
-        res.status(404).json({ message: 'No trip with this id!' });
+        res.status(404).json({ message: 'No products with this id!' });
         return;
       }
       res.status(200).json(data);
