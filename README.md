@@ -14,6 +14,7 @@
   ## Usage
   See the attached video for how the application functions:
 
+  https://watch.screencastify.com/v/CBQubJt6wFALi1bFkdew
   
   ## Questions
   https://github.com/ctolnai
